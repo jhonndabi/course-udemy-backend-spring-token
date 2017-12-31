@@ -1,0 +1,16 @@
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/service/implementation/UserServiceImple.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/service/UserService.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/service/PhotoService.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/config/RestConfiguration.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/controller/PhotoController.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/dao/UserDao.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/config/JwtFilter.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/controller/UserResource.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/model/Photo.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/controller/UserController.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/dao/PhotoDAO.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/controller/PhotoResource.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/model/Comment.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/model/User.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/service/implementation/PhotoServiceImple.java
+/Users/sartori/Sites/cursos-udemy/Build A Web App With-Spring-Framework-and-Angular-2/Main/backend-with-token-spring/src/main/java/com/lucassartori/TokenBackendApplication.java

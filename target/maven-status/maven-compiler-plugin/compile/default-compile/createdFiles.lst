@@ -1,0 +1,16 @@
+com/lucassartori/service/PhotoService.class
+com/lucassartori/model/Comment.class
+com/lucassartori/TokenBackendApplication.class
+com/lucassartori/dao/UserDao.class
+com/lucassartori/config/JwtFilter.class
+com/lucassartori/service/UserService.class
+com/lucassartori/model/User.class
+com/lucassartori/service/implementation/UserServiceImple.class
+com/lucassartori/model/Photo.class
+com/lucassartori/controller/PhotoController.class
+com/lucassartori/controller/PhotoResource.class
+com/lucassartori/controller/UserController.class
+com/lucassartori/controller/UserResource.class
+com/lucassartori/service/implementation/PhotoServiceImple.class
+com/lucassartori/config/RestConfiguration.class
+com/lucassartori/dao/PhotoDAO.class
